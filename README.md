@@ -1,1 +1,7 @@
-# alejandromz2.github.io
+# Data Scientist
+
+### Education 
+Mechatronics, Bsc
+
+### Work Experience
+Data scitist
