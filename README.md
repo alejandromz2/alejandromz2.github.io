@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### Education 
-Mechatronics, Bsc
+Bsc. in Mechatronic Engineer in UTEC | 2023
 
 ### Work Experience
 Data scitist
