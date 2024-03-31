@@ -4,7 +4,7 @@
 B.S., Mechatronic Engineer | Universidad de Ingeniería y Tecnología (_December 2017_)
 
 ### Work Experience
-**Fima SAC @ Production Assistant (_February 2024 - March 2024_)**
+**Fima SAC @ Production Assistant (_February 2024 - March 2024_)** /r
 The position consisted of the development of mechatronic prototypes using embedded systems, for subsequent implementation in industrial machines.
 - I developed a functional prototype of a digital ruler for dimensional control of mechanical parts.
 - Developed a working prototype to digitize the distance measurement process on a mechanical chuck.
