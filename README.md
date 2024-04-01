@@ -54,6 +54,7 @@ A test case was developed in Oracle Notebooks on which the algorithm qualified w
 
 Using a Kaggle database, my project group and I developed an algorithm to classify songs in Python and Matlab using the Fourier transform to separate songs by different frequencies. Binary classification and multiclass classification were applied.
 ![image](https://github.com/alejandromz2/alejandromz2.github.io/assets/30611516/c59de38f-ad8d-4d3a-8e49-95a8acba08ac)
+
 Check the project in this repository: https://github.com/alejandromz2/Learning-Algorithm-for-classification-musical-through-Deep-Learning
 
 
