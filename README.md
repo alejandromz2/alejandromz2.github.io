@@ -1,4 +1,4 @@
-# Data Scientist
+# Machine Learning Engineer
 
 ### Education 
 B.S., Mechatronic Engineer | Universidad de Ingeniería y Tecnología (_March 2027 - December 2023_)
