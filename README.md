@@ -1,7 +1,8 @@
 # Data Scientist
 
 ### Education 
-B.S., Mechatronic Engineer | Universidad de Ingeniería y Tecnología (_December 2017_)
+B.S., Mechatronic Engineer | Universidad de Ingeniería y Tecnología (_March 2027 - December 2023_)
+Entrepreneurship Program | Massachusetts Institute of Technology (_July 2017 - August 2017_)
 
 ### Work Experience
 
@@ -63,6 +64,8 @@ A test case was developed in Oracle Notebooks on which the algorithm qualified w
 - Cert. Advanced Program in Design Engineering and Automation Project Management (_March 2022 December 2022_)
 - Oracle Cloud Infrastructure 2023 AI Foundations Associate (_December 2023 - December 2025_)
 - IBM Data Science Orientation (_March 2024_)
+- Machine Learning Specialization (_October 2024_)
+- Advanced Data Science (_April 2024 - October 2024_)
 
 ### Projects
 **Algoritm learning for classification musical through Machine Learning**
