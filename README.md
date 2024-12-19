@@ -4,7 +4,22 @@
 B.S., Mechatronic Engineer | Universidad de Ingeniería y Tecnología (_December 2017_)
 
 ### Work Experience
-**Fima SAC @ Production Assistant (_February 2024 - March 2024_)**
+
+**Ferreyros SA @ Trainee Engineer (_August 2024 - Present_)**
+
+- Responsible for implementing process automation and developing innovative solutions to optimize technical and operational workflows.
+- Developed multiple Python-based automations for uploading Caterpillar's New Information to Ferreyros' Smarty platform.
+- Created an AppScript application to update the status of mandatory technical documents in the workshop, depending on component availability for specific improvements.
+- Designed an MVP for a Generative AI project utilizing LLMs and embeddings for automatic classification of New Information, including integration with the GAIA application through Flask.
+
+**Fima SAC @ Information Technology Intern (_May 2024 - July 2024_)**
+
+- Collaborated across various departments to enhance workflows and propose technical solutions aligned with company needs.
+- Designed a Power BI sales dashboard with ODBC connections to ERP Global Shop data, revolutionizing reporting processes for management and sales teams.
+- Interacted with different company areas to identify process improvement opportunities, implementing changes in the Bizagi tool.
+- Acted as a liaison between the Production and IT departments to analyze and propose enhancements based on prior observations.
+  
+**Fima SAC @ Production Intern (_February 2024 - April 2024_)**
 
 The position consisted of the development of mechatronic prototypes using embedded systems, for subsequent implementation in industrial machines.
 - I developed a functional prototype of a digital ruler for dimensional control of mechanical parts.
